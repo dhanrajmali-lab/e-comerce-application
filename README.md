@@ -6,4 +6,3 @@ express js
 nodemon 
 jsonwebtoken
 bcrypt
-dgfdhj
