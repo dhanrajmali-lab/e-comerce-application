@@ -1,7 +1,4 @@
 E-commerce project 
-
-
-heloeiofjerdfn
-fdkgj
-fdkj
-
+react js
+nodejs 
+express js
