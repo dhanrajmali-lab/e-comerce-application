@@ -1,0 +1,29 @@
+body{
+  background-color: #61dafb;
+}
+.App {
+  text-align: center;
+  padding: 18%;
+}
+.h-list{
+  display: flex;
+  background-color: black;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.h-list>li{
+  list-style: none;
+}
+.h-list>li>a{
+  text-decoration: none;
+  color: crimson;
+  font-size: 20px;
+
+}
+
+
+
+
+
